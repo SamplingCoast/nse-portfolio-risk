@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.sites-runtime/
+.openai/
+data/raw/
+student_evidence/
