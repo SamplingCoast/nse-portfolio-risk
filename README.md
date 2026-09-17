@@ -55,11 +55,11 @@ The six checks cover SVD versus eigenvalues, observed portfolio variance versus 
 
 ## Submission evidence
 
-- Public repository URL: pending publication by the student.
-- Public running dashboard URL: pending Codespaces deployment by the student.
-- GitHub Student Developer Pack: not yet verified in this project.
-- Actual Pack benefit used: pending student confirmation. Proposed use is Codespaces under the verified student account to run this project; do not claim Copilot use unless actually used.
-- Evidence: save Student_Pack_Approved.png, Codespaces_Run.png and Dashboard_Live.png outside this public repository and submit as appropriate through the LMS.
+- Public repository URL: https://github.com/SamplingCoast/nse-portfolio-risk
+- Public running dashboard URL: https://scaling-space-garbanzo-7v5jqx5v4gv7cp666-8000.app.github.dev/
+- GitHub Student Developer Pack: Pending
+- Actual Pack benefit used: pending student confirmation. Proposed use is Codespaces under the verified student account to run this project.
+- Evidence: save Student_Pack_Approved.png, Codespaces_Run.png and Dashboard_Live.png outside this public repositor.
 
 The supplied Git history records real implementation stages authored by the project assistant. It must not be represented as a fabricated student-only development history. Student review, understanding and account actions remain necessary.
 
