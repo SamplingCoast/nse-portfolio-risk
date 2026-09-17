@@ -1,0 +1,50 @@
+{
+  "provider": "Yahoo Finance",
+  "retrieval_tool": "yfinance",
+  "retrieved_utc": "2026-09-17T09:18:02.533289+00:00",
+  "requested_start": "2023-01-01",
+  "requested_end_exclusive": "2026-01-01",
+  "price_field": "Adj Close",
+  "stocks": {
+    "HDFCBANK.NS": "Banking",
+    "ICICIBANK.NS": "Banking",
+    "SBIN.NS": "Banking",
+    "TCS.NS": "Information technology",
+    "INFY.NS": "Information technology",
+    "HCLTECH.NS": "Information technology",
+    "ITC.NS": "Consumer goods",
+    "HINDUNILVR.NS": "Consumer goods",
+    "RELIANCE.NS": "Energy and diversified",
+    "LT.NS": "Engineering and construction"
+  },
+  "benchmark": "^NSEI",
+  "rows": 740,
+  "missing_by_column": {
+    "HDFCBANK.NS": 0,
+    "ICICIBANK.NS": 0,
+    "SBIN.NS": 0,
+    "TCS.NS": 0,
+    "INFY.NS": 0,
+    "HCLTECH.NS": 0,
+    "ITC.NS": 0,
+    "HINDUNILVR.NS": 0,
+    "RELIANCE.NS": 0,
+    "LT.NS": 0,
+    "^NSEI": 0
+  },
+  "sha256": "ce59f7b0dab635e6f90467e0ae2d7818b38e4738911fc26b8f7933bf2aeeae70",
+  "source_urls": {
+    "HDFCBANK.NS": "https://finance.yahoo.com/quote/HDFCBANK.NS/history/",
+    "ICICIBANK.NS": "https://finance.yahoo.com/quote/ICICIBANK.NS/history/",
+    "SBIN.NS": "https://finance.yahoo.com/quote/SBIN.NS/history/",
+    "TCS.NS": "https://finance.yahoo.com/quote/TCS.NS/history/",
+    "INFY.NS": "https://finance.yahoo.com/quote/INFY.NS/history/",
+    "HCLTECH.NS": "https://finance.yahoo.com/quote/HCLTECH.NS/history/",
+    "ITC.NS": "https://finance.yahoo.com/quote/ITC.NS/history/",
+    "HINDUNILVR.NS": "https://finance.yahoo.com/quote/HINDUNILVR.NS/history/",
+    "RELIANCE.NS": "https://finance.yahoo.com/quote/RELIANCE.NS/history/",
+    "LT.NS": "https://finance.yahoo.com/quote/LT.NS/history/",
+    "^NSEI": "https://finance.yahoo.com/quote/^NSEI/history/"
+  },
+  "note": "Fixed educational snapshot; vendor adjustments may change on a later download. NIFTY 50 is a price index, not a total-return benchmark."
+}
