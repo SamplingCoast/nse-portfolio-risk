@@ -1,0 +1,3 @@
+* text=auto eol=lf
+data/adjusted_prices.csv -text
+*.png -text
